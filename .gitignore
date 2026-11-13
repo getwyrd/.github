@@ -1,0 +1,3 @@
+# Claude Code machine-local files: may hold recorded commands with secrets; never commit
+**/.claude/settings.local.json*
+CLAUDE.local.md
